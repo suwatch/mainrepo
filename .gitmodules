@@ -1,0 +1,3 @@
+[submodule "subrepo01"]
+	path = subrepo01
+	url = https://github.com/suwatch/subrepo01.git
